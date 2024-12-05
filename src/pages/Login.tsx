@@ -52,7 +52,7 @@ function Login() {
               🎟 Ready to dive into the world of unlimited entertainment? Enter
               your credentials and let the cinematic adventure begin!
             </p>
-            <img src="./public/assets/render2.png" alt="bienvenidaRenderLogin" />
+            <img src="assets/render2.png" alt="bienvenidaRenderLogin" />
           </div>
           <div className="sign-up">
             <p>
