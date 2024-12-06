@@ -17,6 +17,7 @@ Antes de iniciar el proyecto, asegúrate de tener **npm** instalado en tu máqui
    npm install @supabase/supabase-js
   npm install react-router-dom@6
   npm install react-youtube
+  npm install axios
 
-3. Ejecucion del proyecto
+4. Ejecucion del proyecto
    npm run dev
